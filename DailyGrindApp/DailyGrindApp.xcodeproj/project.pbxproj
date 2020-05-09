@@ -12,6 +12,7 @@
 		BA0529B5246662E4001DBF5B /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA0529B4246662E4001DBF5B /* ListViewController.swift */; };
 		BA0529B7246662F1001DBF5B /* EntryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA0529B6246662F1001DBF5B /* EntryViewController.swift */; };
 		BA0529B924666307001DBF5B /* TaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA0529B824666307001DBF5B /* TaskViewController.swift */; };
+		BA0529BB24667EAA001DBF5B /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA0529BA24667EA9001DBF5B /* HomeViewController.swift */; };
 		BA1AE88B246654D600538F09 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA1AE88A246654D600538F09 /* AppDelegate.swift */; };
 		BA1AE88D246654D600538F09 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA1AE88C246654D600538F09 /* SceneDelegate.swift */; };
 		BA1AE88F246654D600538F09 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA1AE88E246654D600538F09 /* ViewController.swift */; };
@@ -28,6 +29,7 @@
 		BA0529B4246662E4001DBF5B /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 		BA0529B6246662F1001DBF5B /* EntryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryViewController.swift; sourceTree = "<group>"; };
 		BA0529B824666307001DBF5B /* TaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskViewController.swift; sourceTree = "<group>"; };
+		BA0529BA24667EA9001DBF5B /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		BA1AE887246654D600538F09 /* DailyGrindApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DailyGrindApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA1AE88A246654D600538F09 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BA1AE88C246654D600538F09 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				BA0529B4246662E4001DBF5B /* ListViewController.swift */,
 				BA0529B6246662F1001DBF5B /* EntryViewController.swift */,
 				BA0529B824666307001DBF5B /* TaskViewController.swift */,
+				BA0529BA24667EA9001DBF5B /* HomeViewController.swift */,
 			);
 			path = "View Controllers";
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 				BA0529B224665F7F001DBF5B /* UIViewController+Extensions.swift in Sources */,
 				BA0529B924666307001DBF5B /* TaskViewController.swift in Sources */,
 				BA1AE88F246654D600538F09 /* ViewController.swift in Sources */,
+				BA0529BB24667EAA001DBF5B /* HomeViewController.swift in Sources */,
 				BA1AE88B246654D600538F09 /* AppDelegate.swift in Sources */,
 				BA0529B5246662E4001DBF5B /* ListViewController.swift in Sources */,
 				BA1AE88D246654D600538F09 /* SceneDelegate.swift in Sources */,

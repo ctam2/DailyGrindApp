@@ -27,6 +27,8 @@ class ListViewController: UIViewController, UITableViewDelegate, UITableViewData
         table.register(UITableViewCell.self, forCellReuseIdentifier: "cell")
         table.delegate = self
         table.dataSource = self
+        
+        print(Realm.Configuration.defaultConfiguration.fileURL!)
     }
     
 
