@@ -1,0 +1,6 @@
+framework module Pods_DailyGrindApp {
+  umbrella header "Pods-DailyGrindApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
