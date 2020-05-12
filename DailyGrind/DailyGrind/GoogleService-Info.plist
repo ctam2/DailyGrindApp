@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>392830964781-up2e0504b5hbq7f8edcg7elcraotg992.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.392830964781-up2e0504b5hbq7f8edcg7elcraotg992</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAqk7ajCqgR7A61V_4-vA9a5Avi-1hsTpc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>392830964781</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>code.codewithchristy.DailyGrind</string>
+	<key>PROJECT_ID</key>
+	<string>dailygrindapp-ed120</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dailygrindapp-ed120.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:392830964781:ios:d2fac42c7fc789e49314a4</string>
+	<key>DATABASE_URL</key>
+	<string>https://dailygrindapp-ed120.firebaseio.com</string>
+</dict>
+</plist>
