@@ -75,6 +75,7 @@ class ListViewController: UIViewController, UITableViewDelegate, UITableViewData
         } else {
             cell.todoLabel?.text = todos[indexPath.row]
         }
+        cell.todoLabel.text = todos[indexPath.row]
         return cell
         //let cell =  tableView.dequeueReusableCell(withIdentifier: "cell")
         
